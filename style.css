@@ -1,0 +1,195 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 0vh;
+
+}
+
+
+h1 {position: absolute;
+    top:30px;
+    left: 50px;
+
+}
+
+nav{
+    padding: 30px;
+    width:100%;
+  }
+
+ul {
+    display: flex;
+    justify-content:space-evenly;
+    position:absolute;
+    top:15px;
+    left:800px;
+    width: 20%;
+    color:dimgray;
+}
+
+li{
+    font-size: 14px;
+    position:relative;
+    left: 100px;
+    list-style:none;
+    top:20px;
+    display: flex;
+         
+}
+
+h2{
+    font-size: 30px;
+    color:#fff;
+    position:absolute;
+    top:340px;
+    left:100px;
+       
+}
+    
+header {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+     
+}
+
+img{
+    width: 1366px;
+    height: 450px;
+}
+
+p {
+    font-size: 78px;
+    color: #fff;
+    position:absolute;
+    top: 200px;
+    left: 100px;   
+}
+
+div {
+    max-width: 200%;
+    max-height: 300%;
+}
+
+.laranja{
+width:800px;
+position:absolute;
+top:150px;
+
+}
+
+.box {
+    display: flex;
+    position: absolute;
+    top:600px;
+    left:100px;
+    display: inline;
+      
+}
+
+
+.photo { width: 300px;
+    height: 300px;;
+
+}
+
+.box2 { display: flex;
+    position: absolute;
+    top:910px;
+    left:100px;
+    display: inline;
+
+}
+
+.photo2 { width: 300px;
+    height: 300px;
+
+}
+
+.box3 {
+    display: flex;
+    position: absolute;
+    top:1220px;
+    left: 100px;
+    display: inline;
+}
+
+.photo3 {
+    width: 300px;
+    height: 300px;
+
+}
+
+.footer{
+    display: flex;
+
+    
+}
+
+.facebook {
+    width:20px;
+    height: 20px;
+    position:absolute;
+    top:1600px;
+    left:90px;
+    
+}
+
+.twitter {
+    width:20px;
+    height: 20px;
+    position:absolute;
+    top:1600px;
+    left:130px;
+}
+
+.instagram {
+    width:20px;
+    height: 20px;
+    position:absolute;
+    top:1600px;
+    left:170px;
+}
+
+.telegram {
+    width:20px;
+    height: 20px;
+    position:absolute;
+    top:1600px;
+    left:210px;
+}
+
+.zap {
+    width:20px;
+    height: 20px;
+    position:absolute;
+    top:1600px;
+    left:250px;
+}
+
+.youtub {
+    width:20px;
+    height: 20px;
+    position:absolute;
+    top:1600px;
+    left:290px;
+}
+
+.copyright {
+    font-size: 15px;
+    color:black;
+    position: absolute;
+    top:1590px;
+    left:500px;
+}
+
+
+
+    
+
+
